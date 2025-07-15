@@ -25,10 +25,6 @@ git clone https://github.com/your-username/todo-list.git
 ### 2. Open the App
 Open the `index.html` file in any web browser to start using the app.
 
-## 📸 Screenshot
-
-*(Add a screenshot here if you'd like)*
-
 ## 📁 Project Structure
 
 ```
